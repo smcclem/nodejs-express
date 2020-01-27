@@ -1,1 +1,1 @@
-stack: kabanero/nodejs-express:0.2
+stack: docker.io/kabanerobeta/nodejs:0.3
